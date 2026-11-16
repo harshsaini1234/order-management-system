@@ -10,4 +10,5 @@ public class UserServiceController {
     public String healthCheck(){
         return "user service is up and running";
     }
+
 }
